@@ -1,0 +1,29 @@
+{
+  "sites": [
+    {
+      "name": "Instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://instagram.com"
+    },
+    {
+      "name": "Twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com"
+    },
+    {
+      "name": "Discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.com"
+    },
+    {
+      "name": "YouTube",
+      "icon": "fab fa-youtube",
+      "link": "https://youtube.com"
+    },
+    {
+      "name": "Facebook",
+      "icon": "fab fa-facebook",
+      "link": null
+    }
+  ]
+}
