@@ -1,2 +1,2 @@
 # LinkInBio
-ItemSatis - Honour01 Bizi tercih ettiğiniz için teşekkür ederiz.
+muhtesem link koyma yeri kullanmayan pısman
